@@ -29,9 +29,8 @@
               {
                 "type": "minecraft:matching_blocks",
                 "blocks": [
-                  "minecraft:grass_block",
                   "minecraft:sand",
-                  "minecraft:red_sand"
+                  "minecraft:grass_block"
                 ],
                 "offset": [
                   0,
