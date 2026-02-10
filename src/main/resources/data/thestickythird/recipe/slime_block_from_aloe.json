@@ -3,7 +3,8 @@
   "category": "redstone",
   "ingredients": [
     {
-      "item": "thestickythird:aloe_vera_block"
+      "item": "thestickythird:aloe_vera_block",
+      "count": 1
     },
     {
       "item": "minecraft:lime_dye"

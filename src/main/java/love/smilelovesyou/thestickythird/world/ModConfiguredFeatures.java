@@ -23,7 +23,7 @@ public class ModConfiguredFeatures {
                 ConfiguredFeatures.createRandomPatchFeatureConfig(Feature.SIMPLE_BLOCK,
                         new SimpleBlockFeatureConfig(BlockStateProvider.of((BlockState)
                                 ModBlocks.ALOE_VERA_PLANT.getDefaultState().with(AloeVeraPlantBlock.AGE, 3))),
-                        List.of(Blocks.GRASS_BLOCK)));
+                        List.of(Blocks.GRASS_BLOCK, Blocks.SAND, Blocks.RED_SAND)));
     }
 
     public static RegistryKey<ConfiguredFeature<?, ?>> registerKey(String name) {

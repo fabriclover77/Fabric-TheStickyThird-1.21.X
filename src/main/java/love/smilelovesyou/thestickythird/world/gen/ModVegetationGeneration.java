@@ -14,9 +14,8 @@ public class ModVegetationGeneration {
                 BiomeKeys.SAVANNA_PLATEAU,
                 BiomeKeys.WINDSWEPT_SAVANNA,
                 BiomeKeys.SPARSE_JUNGLE,
-                BiomeKeys.BADLANDS,
-                BiomeKeys.ERODED_BADLANDS,
-                BiomeKeys.WOODED_BADLANDS),
+                BiomeKeys.WOODED_BADLANDS,
+                BiomeKeys.SPARSE_JUNGLE),
                 GenerationStep.Feature.VEGETAL_DECORATION, ModPlacedFeatures.ALOE_VERA_PLANT_PLACED_KEY);
     }
 
