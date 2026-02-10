@@ -1,0 +1,14 @@
+# The Sticky Third
+## Introduction
+This is a Minecraft Fabric Mod that adds the Aloe Vera Plant to the game!
+Aloe Vera can be crafted into Gel, which can in turn be crafted into Aloe Vera Blocks, Slime Balls and Slime Blocks.
+This mod is for anyone who wants to play in peaceful mode without giving up the all so precious Slime Blocks. :)
+
+## Features
+### Aloe Vera Plant
+The Aloe Vera Plant rarely spawns in Savannas, Deserts and Badland Biomes. 
+When right-clicked, it drops 2-4 Aloe Vera items, which can be used to craft Aloe Vera Gel.
+When broken with shears, it rarely drops an additional Aloe Vera Offset, which can be used to re-plant.
+### Aloe Vera Block
+Aloe Vera Blocks can be crafted using 9 Aloe Vera Gel.
+They fully negate fall-damage and give the player Regeneration 1 for 3 seconds when inside the block.
