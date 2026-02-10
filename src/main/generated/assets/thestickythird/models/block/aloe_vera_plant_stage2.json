@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "thestickythird:block/aloe_vera_plant_stage2"
+  }
+}

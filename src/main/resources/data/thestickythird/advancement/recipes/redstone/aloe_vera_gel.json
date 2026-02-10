@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_aloe_vera": {
+      "conditions": {
+        "items": [
+          {
+            "items": "thestickythird:aloe_vera"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+  "requirements": [
+    [
+      "has_aloe_vera"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "thestickythird:aloe_vera_gel",
+      "thestickythird:aloe_vera_block"
+    ]
+  }
+}}

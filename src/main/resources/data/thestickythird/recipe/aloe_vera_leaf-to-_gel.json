@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "thestickythird:aloe_vera"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "thestickythird:aloe_vera_gel"
+  }
+}

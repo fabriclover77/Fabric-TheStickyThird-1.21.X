@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "thestickythird",
+	"version": "${version}",
+	"name": "The Sticky Third",
+	"description": "This Mod adds Aloe Vera plants to Minecraft, which can be used to craft Slime and other cool stuff in Peaceful Mode!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/thestickythird/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"love.smilelovesyou.thestickythird.TheStickyThird"
+		],
+		"fabric-datagen": [
+			"love.smilelovesyou.thestickythird.TheStickyThirdDataGenerator"
+		],
+		"client": [
+			"love.smilelovesyou.thestickythird.TheStickyThirdClient"
+		]
+	},
+	"mixins": [
+		"thestickythird.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
