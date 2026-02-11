@@ -21,8 +21,8 @@ When broken with shears, it rarely drops an additional Aloe Vera Offset, which c
 Aloe Vera Blocks can be crafted using 9 Aloe Vera Gel.
 They also negate fall-damage and give the player Regeneration 1 for 3 seconds when inside the block.
 ### Peaceful Slime-Recipes
-Aloe Vera Gel + Lime Dye = 1 Slime Ball
-Aloe Vera Block + Lime Dye = 1 Slime Block
+- Aloe Vera Gel + Lime Dye = 1 Slime Ball
+- Aloe Vera Block + Lime Dye = 1 Slime Block
 
 </details>
 
