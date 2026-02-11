@@ -30,7 +30,8 @@
                 "type": "minecraft:matching_blocks",
                 "blocks": [
                   "minecraft:sand",
-                  "minecraft:grass_block"
+                  "minecraft:grass_block",
+                  "minecraft:dirt"
                 ],
                 "offset": [
                   0,
