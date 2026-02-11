@@ -6,25 +6,6 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "thestickythird:aloe_vera"
-        }
-      ],
-      "functions": [
-        {
-          "function": "minecraft:set_count",
-          "count": {
-            "type": "minecraft:uniform",
-            "min": 2.0,
-            "max": 4.0
-          }
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
           "name": "thestickythird:aloe_vera",
           "functions": [
             {
@@ -38,13 +19,19 @@
           ],
           "conditions": [
             {
-              "condition": "minecraft:match_tool",
-              "predicate": {
-                "items": ["minecraft:shears"]
+              "condition": "minecraft:block_state_property",
+              "block": "thestickythird:aloe_vera_plant",
+              "properties": {
+                "age": "3"
               }
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "minecraft:item",
           "name": "thestickythird:aloe_vera_offset",
@@ -63,6 +50,13 @@
               "condition": "minecraft:match_tool",
               "predicate": {
                 "items": ["minecraft:shears"]
+              }
+            },
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "thestickythird:aloe_vera_plant",
+              "properties": {
+                "age": "3"
               }
             }
           ]
