@@ -4,7 +4,7 @@ Peaceful Slime without the Honey-Grind! <3
 ![This image shows 5 aloe vera plants in a savannah biome with a lightly clouded sky in minecraft.](https://cdn.modrinth.com/data/cached_images/c2f7eddf72fc36a3f19aef50a555718715e13f96.png)
 
 ## Introductionッ
-This is a Fabric Mod that adds the Aloe Vera to the game!
+This is a Fabric Mod that adds the Aloe Vera Plant to the game!
 Aloe Vera can be crafted into Gel, which can in turn be crafted into Aloe Vera Blocks, Slime Balls and Slime Blocks.
 This mod is for anyone who wants to play in peaceful mode without giving up the all so precious Slime Blocks.ッ
 
@@ -21,8 +21,8 @@ When broken with shears, it rarely drops an additional Aloe Vera Offset, which c
 Aloe Vera Blocks can be crafted using 9 Aloe Vera Gel.
 They also negate fall-damage and give the player Regeneration 1 for 3 seconds when inside the block.
 ### Peaceful Slime-Recipes
-Aloe Vera Gel + Lime Dye = 1 Slime Ball
-Aloe Vera Block + Lime Dye = 1 Slime Block
+- Aloe Vera Gel + Lime Dye = 1 Slime Ball
+- Aloe Vera Block + Lime Dye = 1 Slime Block
 
 </details>
 
