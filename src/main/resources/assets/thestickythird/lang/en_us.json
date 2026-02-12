@@ -4,5 +4,12 @@
   "item.thestickythird.aloe_vera_offset": "Aloe Vera Offset",
 
   "block.thestickythird.aloe_vera_block": "Aloe Vera Block",
-  "block.thestickythird.aloe_vera_plant": "Aloe Vera Plant"
+  "block.thestickythird.aloe_vera_plant": "Aloe Vera Plant",
+
+  "advancement.thestickythird.get_aloe_offset.title": "Weird...",
+  "advancement.thestickythird.get_aloe_offset.description": "Break an Aloe Vera Plant using Shears.",
+  "advancement.thestickythird.make_aloe_block.title": "The Sticky Third",
+  "advancement.thestickythird.make_aloe_block.description": "Craft an Aloe Vera Block.",
+  "advancement.thestickythird.root.title": "Desert Healer",
+  "advancement.thestickythird.root.description": "Find Aloe Vera."
 }

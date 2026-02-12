@@ -1,25 +1,26 @@
 {
-  "parent": "minecraft:recipes/root",
+  "parent": "thestickythird:recipes/redstone",
   "criteria": {
     "has_aloe_vera": {
+      "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": "thestickythird:aloe_vera"
           }
         ]
-      },
-      "trigger": "minecraft:inventory_changed"
-    },
+      }
+    }
+  },
   "requirements": [
-    [
-      "has_aloe_vera"
-    ]
+    ["has_aloe_vera"]
   ],
   "rewards": {
     "recipes": [
       "thestickythird:aloe_vera_gel",
-      "thestickythird:aloe_vera_block"
+      "thestickythird:aloe_vera_block",
+      "thestickythird:slime_ball_from_aloe",
+      "thestickythird:slime_block_from_aloe"
     ]
   }
-}}
+}

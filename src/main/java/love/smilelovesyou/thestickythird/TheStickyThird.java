@@ -5,6 +5,7 @@ import love.smilelovesyou.thestickythird.item.ModItems;
 import love.smilelovesyou.thestickythird.world.gen.ModWorldGeneration;
 import net.fabricmc.api.ModInitializer;
 
+import net.minecraft.advancement.Advancement;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -24,6 +25,5 @@ public class TheStickyThird implements ModInitializer {
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
 		ModWorldGeneration.generateModWorldGen();
-
 	}
 }

@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "id": "thestickythird:aloe_vera"
+    },
+    "title": {
+      "translate": "advancement.thestickythird.root.title"
+    },
+    "description": {
+      "translate": "advancement.thestickythird.root.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "minecraft:textures/block/sand.png"
+  },
+  "criteria": {
+    "find_aloe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "thestickythird:aloe_vera"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["find_aloe"]
+  ]
+}
